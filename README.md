@@ -54,6 +54,8 @@ Permission     | Purpose
 ACCESS_COARSE_LOCATION | Allows application to access approximate location 
 ACCESS_NETWORK_STATE     | Allows application to access information about networks Protection level: normal
 INTERNET     | Allows application to access the Internet
+CAMERA     | Allows application to access the camera
+USB_PERMISSION     | Allows application to access USB peripherals
 
 #### Activity Lifecycle
 **Thread Handling**
